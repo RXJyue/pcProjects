@@ -1,0 +1,333 @@
+﻿,standard_name,column_name,a_loop,b_loop,c_loop
+1,DateTime,DateTime,DateTime,DateTime,DateTime
+2,ALC,Actual Line Current,placeholder,placeholder,placeholder
+3,ALV,Actual Line Voltage,Actual Line Voltage,Actual Line Voltage,Actual Line Voltage
+4,Hrs,After Service Hrs,placeholder,placeholder,placeholder
+5,CDT,Comp Discharge Temp,DischargeGasTempA,DischargeGasTempB,DischargeGasTempC
+6,CDT,CDT,CDT,CDT,CDT
+7,DP,Condenser Pressure,placeholder,placeholder,placeholder
+8,ECW,Entering Chilled Water,Entering Chilled Water,Entering Chilled Water,Entering Chilled Water
+9,ECDW,Entering Condenser Water,Entering Condenser Water,Entering Condenser Water,Entering Condenser Water
+10,SP,Evaporator Pressure,placeholder,placeholder,placeholder
+11,LCW,Leaving Chilled Water,Leaving Chilled Water,Leaving Chilled Water,Leaving Chilled Water
+12,LCDW,Leaving Condenser Water,Leaving Condenser Water,Leaving Condenser Water,Leaving Condenser Water
+13,Power,Line side Kilowatts,placeholder,placeholder,placeholder
+14,PLC,Percent Line Current,ch_runstatus_analog,placeholder,placeholder
+15,ALC,Average Line Current,placeholder,placeholder,placeholder
+16,Hrs,Service Ontime,placeholder,placeholder,placeholder
+17,Hrs,Compressor Ontime,placeholder,placeholder,placeholder
+18,ALC,Chiller Total Current,placeholder,placeholder,placeholder
+19,Hrs,Total Operating Hours,placeholder,placeholder,placeholder
+20,DP,Discharge Pressure,Discharge Pressure Cir A,Discharge Pressure Cir B,Discharge Pressure Cir C
+21,Control Point,Current Setpoint,Current Setpoint,Current Setpoint,Current Setpoint
+22,PLC,Percent Total Capacity,placeholder,placeholder,placeholder
+23,ECW,Ent CHW Temp,Ent CHW Temp,Ent CHW Temp,Ent CHW Temp
+24,ECDW,Ent CW Temp,Ent CW Temp,Ent CW Temp,Ent CW Temp
+25,LCW,Lvg CHW Temp,Lvg CHW Temp,Lvg CHW Temp,Lvg CHW Temp
+26,LCDW,Lvg CW Temp,Lvg CW Temp,Lvg CW Temp,Lvg CW Temp
+27,GV,Actual Guide Vane Pos,placeholder,placeholder,placeholder
+28,SP,蒸发器压力,placeholder,placeholder,placeholder
+29,ECW,冷水进水温度,冷水进水温度,冷水进水温度,冷水进水温度
+30,LCW,冷水出水温度,冷水出水温度,冷水出水温度,冷水出水温度
+31,DP,冷凝器压力,placeholder,placeholder,placeholder
+32,ECDW,冷却水进水温度,冷却水进水温度,冷却水进水温度,冷却水进水温度
+33,LCDW,冷却水出水温度,冷却水出水温度,冷却水出水温度,冷却水出水温度
+34,Power,需求功率,placeholder,placeholder,placeholder
+35,GV,实际导叶开度,placeholder,placeholder,placeholder
+36,PLC,Load值,placeholder,placeholder,placeholder
+37,SP,SP,SP,SP,SP
+38,ECW,ECW,ECW,ECW,ECW
+39,LCW,LCW,LCW,LCW,LCW
+40,DP,DP,DP,DP,DP
+41,ECDW,ECDW,ECDW,ECDW,ECDW
+42,LCDW,LCDW,LCDW,LCDW,LCDW
+43,ALC,ALC,ALC,ALC,ALC
+44,Power,Power,Power,Power,Power
+45,GV,GV,GV,GV,GV
+46,PLC,PLC,PLC,PLC,PLC
+47,CDT,排气温度,placeholder,placeholder,placeholder
+48,Control Point,设定出水温度,设定出水温度,设定出水温度,设定出水温度
+49,PLC,电流百分比,placeholder,placeholder,placeholder
+50,GV,导叶开度,placeholder,placeholder,placeholder
+51,SP,蒸发压力,placeholder,placeholder,placeholder
+52,DP,冷凝压力,placeholder,placeholder,placeholder
+53,LCW,冷冻出水温度,冷冻出水温度,冷冻出水温度,冷冻出水温度
+54,ECW,冷冻进水温度,冷冻进水温度,冷冻进水温度,冷冻进水温度
+55,LCDW,冷却出水温度,冷却出水温度,冷却出水温度,冷却出水温度
+56,ECDW,冷却进水温度,冷却进水温度,冷却进水温度,冷却进水温度
+57,PLC,负载,placeholder,placeholder,placeholder
+58,ALC,线电流,placeholder,placeholder,placeholder
+59,Power,功率,placeholder,placeholder,placeholder
+60,Control Point,Cooling Setpoint 1,Cooling Setpoint 1,Cooling Setpoint 1,Cooling Setpoint 1
+61,CDT,placeholder,Discharge Gas Temp A,Discharge Gas Temp B,Discharge Gas Temp C
+62,SP,Suction Pressure,Suction Pressure Cir A,Suction Pressure Cir B,Suction Pressure Cir C
+63,PLC,placeholder,Percent Capacity Cir A,Percent Capacity Cir B,Percent Capacity Cir C
+64,ALC,placeholder,Motor Current Cir A,Motor Current Cir B,Motor Current Cir C
+65,ALV,ALV,ALV,ALV,ALV
+66,Hrs,Hrs,Hrs,Hrs,Hrs
+67,DateTime,时间,时间,时间,时间
+68,EXV,EXV,EXV,EXV,EXV
+69,EXV,placeholder,EXV Position Cir A,EXV Position Cir B,EXV Position Cir C
+70,PLC,placeholder,Percent Total Capacity A,Percent Total Capacity B,Percent Total Capacity C
+71,ALC,实际电流,placeholder,placeholder,placeholder
+72,CDT,Discharge Gas Temp Cp,Discharge Gas Temp Cp A,Discharge Gas Temp Cp B,Discharge Gas Temp Cp C
+73,ALC,placeholder,Motor Current Comp A,Motor Current Comp B,Motor Current Comp C
+74,EXV,placeholder,EXV Position Circuit A,EXV Position Circuit B,EXV Position Circuit C
+75,CDT1,placeholder,Discharge Gas Temp Cp A1,Discharge Gas Temp Cp B1,Discharge Gas Temp Cp C1
+76,CDT2,placeholder,Discharge Gas Temp Cp A2,Discharge Gas Temp Cp B2,Discharge Gas Temp Cp C2
+77,ALC1,placeholder,Motor Current Comp A1,Motor Current Comp B1,Motor Current Comp C1
+78,ALC2,placeholder,Motor Current Comp A2,Motor Current Comp B2,Motor Current Comp C2
+79,Control Point,LCW Setpoint,placeholder,placeholder,placeholder
+80,Control Point,Control Point,Control Point,Control Point,Control Point
+81,Power,Motor Kilowatts,placeholder,placeholder,placeholder
+82,Power,Line Kilowatts,placeholder,placeholder,placeholder
+83,DateTime,eventdatetime,eventdatetime,eventdatetime,eventdatetime
+84,DP,CondenserPressure,CondenserPressure,CondenserPressure,CondenserPressure
+85,EXV,placeholder,CH_EXV_A,CH_EXV_B,CH_EXV_C
+86,ALC,placeholder,CH_TOT_CURR,CH_TOT_CURR,CH_TOT_CURR
+87,DP,CH_COND_P,CH_DP_A,CH_DP_B,CH_DP_C
+88,CDT,DGT,DGT_A,DGT_B,DGT_C
+89,DP,placeholder,DP_A,DP_B,DP_C
+90,EXV,placeholder,EXV_A,EXV_B,EXV_C
+91,ALC,placeholder,TOT_CURR,TOT_CURR,TOT_CURR
+92,LCW,placeholder,COOL_LWT,COOL_LWT,COOL_LWT
+93,CDT,CH_DGT,CH_DGT_A,CH_DGT_B,CH_DGT_C
+94,SP,CH_EVAP_P,CH_SP_A,CH_SP_B,CH_SP_C
+95,Control Point,CH_CTRL_PNT,CH_CTRL_PNT,CH_CTRL_PNT,CH_CTRL_PNT
+96,ECDW,CH_ECDW,CH_COND_EWT,CH_COND_EWT,CH_COND_EWT
+97,PLC,PercentLoadCurrent,placeholder,placeholder,placeholder
+98,ECDW,EnteringCondLiquid,EnteringCondLiquid,EnteringCondLiquid,EnteringCondLiquid
+99,PLC,placeholder,ActualCapacitycir A,ActualCapacitycir B,ActualCapacitycir C
+100,CDT,placeholder,DischargeGasTempcirA,DischargeGasTempcirB,DischargeGasTempcirC
+101,EXV,placeholder,EXVPositionCircuitA,EXVPositionCircuitB,EXVPositionCircuitC
+102,SP,placeholder,MainSuctionPressureA,MainSuctionPressureB,MainSuctionPressureC
+103,ALC,placeholder,MotorCurrentA,MotorCurrentB,MotorCurrentC
+104,Control Point,controlPoint,controlPoint,controlPoint,controlPoint
+105,ECDW,ch_design_enteringCondenserWater,placeholder,placeholder,placeholder
+106,ECDW,CondenserEnteringFluid,CondenserEnteringFluid,CondenserEnteringFluid,CondenserEnteringFluid
+107,EXV,placeholder,EXVPositionA,EXVPositionB,EXVPositionC
+108,ECDW,EnteringCondenserWater,EnteringCondenserWater,EnteringCondenserWater,EnteringCondenserWater
+109,LCDW,COND_LWT,COND_LWT,COND_LWT,COND_LWT
+110,Control Point,CTRL_PNT,CTRL_PNT,CTRL_PNT,CTRL_PNT
+111,SP,placeholder,SP_A,SP_B,SP_C
+112,ECW,placeholder,COOL_EWT,COOL_EWT,COOL_EWT
+113,Control Point,ControlPoint,ControlPoint,ControlPoint,ControlPoint
+114,LCDW,LeavingCondLiquid,LeavingCondLiquid,LeavingCondLiquid,LeavingCondLiquid
+115,CDT,CompDischargeTemp,CompDischargeTemp,CompDischargeTemp,CompDischargeTemp
+116,ALC,placeholder,LineActiveCurrent,LineActiveCurrent,LineActiveCurrent
+117,GV,CH_GV_POS,placeholder,placeholder,placeholder
+118,ECDW,placeholder,COND_EWT,COND_EWT,COND_EWT
+119,ALC,placeholder,CURREN_A,CURREN_B,CURREN_C
+120,PLC,placeholder,CAPA_T,CAPB_T,CAPB_T
+121,SP,EVAP_P,placeholder,placeholder,placeholder
+122,DP,COND_P,placeholder,placeholder,placeholder
+123,Power,KW,placeholder,placeholder,placeholder
+124,GV,GV1_ACT,placeholder,placeholder,placeholder
+125,ALC,AMPS_A_I,placeholder,placeholder,placeholder
+126,PLC,GENUNIT_AMPS_P,placeholder,placeholder,placeholder
+127,Control Point,GENUNIT_CTRL_PNT,ch_design_controlPoint,ch_design_controlPoint,ch_design_controlPoint
+128,ALC,POWER_I_AMPS_A_I,placeholder,placeholder,placeholder
+129,Power,POWER_I_KW,placeholder,placeholder,placeholder
+130,GV,INPUTS_GV1_ACT,placeholder,placeholder,placeholder
+131,ECDW,TEMP_ECDW,ch_entering_condenser_water,ch_entering_condenser_water,ch_entering_condenser_water
+132,LCDW,TEMP_LCDW,placeholder,placeholder,placeholder
+133,ECW,TEMP_ECW,ch_entering_chilled_water,ch_entering_chilled_water,ch_entering_chilled_water
+134,LCW,TEMP_LCW,ch_leaving_chilled_water,ch_leaving_chilled_water,ch_leaving_chilled_water
+135,CDT,TEMP_DGT,Discharge Gas Temp cir A,Discharge Gas Temp cir B,Discharge Gas Temp cir C
+136,DP,PRESSURE_COND_P,ch_discharge_pressure_a,ch_discharge_pressure_b,ch_discharge_pressure_c
+137,SP,PRESSURE_EVAP_P,placeholder,placeholder,placeholder
+138,PLC,ch_runstatus_analog,ch_runstatus_analog_a,ch_runstatus_analog_b,ch_runstatus_analog_c
+139,SP,CH_GV1_ACT,SuctionPressureA,SuctionPressureB,SuctionPressureC
+140,DP,placeholder,DischargePressureA,DischargePressureB,DischargePressureC
+141,LCW,ch_lcw,ch_lcw,ch_lcw,ch_lcw
+142,ECW,ch_ecw,ch_ecw,ch_ecw,ch_ecw
+143,LCDW,CH_LCDW,ch_lcdw,ch_lcdw,ch_lcdw
+144,ALC,placeholder,ch_current_compA,ch_current_compB,ch_current_compC
+145,CDT,placeholder,DischargeGasTempCpA,DischargeGasTempCpB,DischargeGasTempCpC
+146,CDT1,placeholder,DischargeGasTempCpA1,DischargeGasTempCpB1,DischargeGasTempCpC1
+147,CDT2,placeholder,DischargeGasTempCpA2,DischargeGasTempCpB2,DischargeGasTempCpC2
+148,SP,EvaporatorPressure,Main Suction Pressure A,Main Suction Pressure B,Main Suction Pressure C
+149,LCDW,LeavingCondenserWater,ch_leaving_condenser_water,ch_leaving_condenser_water,ch_leaving_condenser_water
+150,ALC,ActualLineCurrent,placeholder,placeholder,placeholder
+151,GV,actualGuideVanePos,placeholder,placeholder,placeholder
+151,GV,ActualGuideVanePos,placeholder,placeholder,placeholder
+152,Power,ch_line_kw,placeholder,placeholder,placeholder
+153,OilL,placeholder,CirAOilLevelInput,CirBOilLevelInput,CirCOilLevelInput
+154,OilL,placeholder,OilL,OilL,OilL
+155,CDT1,placeholder,CDT1,CDT1,CDT1
+156,CDT2,placeholder,CDT2,CDT2,CDT2
+157,ALC1,ALC1,ALC1,ALC1,ALC1
+158,ALC2,ALC2,ALC2,ALC2,ALC2
+159,ECDW,placeholder,ch_design_enteringCondenserWater,ch_design_enteringCondenserWater,ch_design_enteringCondenserWater
+160,MTRW1,placeholder,MotorTemperatureCompA1,MotorTemperatureCompB1,MotorTemperatureCompC1
+161,MTRW2,placeholder,MotorTemperatureCompA2,MotorTemperatureCompB2,MotorTemperatureCompC2
+162,MTRW1,MTRW1,MTRW1,MTRW1,MTRW1
+163,MTRW2,MTRW2,MTRW2,MTRW2,MTRW2
+164,OilP1,OilP1,OilP1,OilP1,OilP1
+165,OilP2,OilP2,OilP2,OilP2,OilP2
+166,OilP1,placeholder,OilPressureCpA1,OilPressureCpB1,OilPressureCpC1
+167,OilP2,placeholder,OilPressureCpA2,OilPressureCpB2,OilPressureCpC2
+168,VFD,VFD,VFD,VFD,VFD
+169,VFD,ActualVFDSpeed,placeholder,placeholder,placeholder
+170,ALC,AverageLineCurrent,placeholder,placeholder,placeholder
+171,OilPD,OilPD,OilPD,OilPD,OilPD
+172,OilPD,ch_oilPD,ch_DOP_A,ch_DOP_B,ch_DOP_C
+173,MTRW,MTRW,MTRW,MTRW,MTRW
+174,MTRW,CompMotorWindingTemp,MotorTemperaturecirA,MotorTemperaturecirB,MotorTemperaturecirC
+175,CRT,CondenserRefrigTemp,ch_cond_refig_temp_a,ch_cond_refig_temp_b,ch_cond_refig_temp_c
+176,CRT,CRT,CRT,CRT,CRT
+177,ERT,ERT,ERT,ERT,ERT
+178,ERT,EvapRefrigLiquidTemp,ch_evap_refig_temp_a,ch_evap_refig_temp_b,ch_evap_refig_temp_c
+179,InverT,InverT,InverT,InverT,InverT
+180,InverT,InverterTemperature,placeholder,placeholder,placeholder
+181,OilT,OilSumpTemp,placeholder,placeholder,placeholder
+182,OilT,OilT,OilT,OilT,OilT
+183,MTRW,CH_MTRW1,CH_CP_TMP_A,CH_CP_TMP_B,CH_CP_TMP_C
+,FAN,FAN,FAN,FAN,FAN
+,FAN,placeholder,CH_FAN_ST_A,CH_FAN_ST_B,CH_FAN_ST_C
+,OAT,OAT,OAT,OAT,OAT
+,OAT,CH_OAT,CH_OAT,CH_OAT,CH_OAT
+,OilP,placeholder,CH_OP_A,CH_OP_B,CH_OP_C
+,ST,placeholder,CH_SUCT_T_A,CH_SUCT_T_B,CH_SUCT_T_C
+,ST,ST,ST,ST,ST
+,OilP,placeholder,OilPressureA,OilPressureB,OilPressureC
+,OilP,OilP,OilP,OilP,OilP
+,ERT,CH_EVAP_T,placeholder,placeholder,placeholder
+,Power,CH_KW_P,placeholder,placeholder,placeholder
+,VFD,ActualVFDSpeedPer,placeholder,placeholder,placeholder
+,GV,GuideVane1ActualPos,placeholder,placeholder,placeholder
+,MTRW,MotorWinding1Temp,Motor Temperature cir A,Motor Temperature cir B,Motor Temperature cir C
+,GV,CH_GV1_ACT,placeholder,placeholder,placeholder
+,VFD,CH_VFD_ACT,placeholder,placeholder,placeholder
+,OilT,CH_OILT_SMP,placeholder,placeholder,placeholder
+,ALC,CH_AMPS_A_I,Motor Current A,Motor Current B,Motor Current C
+,DP,placeholder,Discharge Pressure A,Discharge Pressure B,Discharge Pressure Cir C
+,OilPD,placeholder,Oil Pressure DifferenceA,Oil Pressure DifferenceB,Oil Pressure DifferenceC
+,PLC,placeholder,Actual Capacity  cir A,Actual Capacity  cir B,Actual Capacity  cir C
+,OilP,placeholder,Oil Pressure A,Oil Pressure B,Oil Pressure C
+,MTRW,placeholder,MotorTemperatureA,MotorTemperatureB,MotorTemperatureC
+,FAN,placeholder,FanStagingNumberA,FanStagingNumberB,FanStagingNumberC
+,OAT,ExternalTemperature,ExternalTemperature,ExternalTemperature,ExternalTemperature
+,ALC1,placeholder,ch_current_compA1,ch_current_compB1,ch_current_compC1
+,ALC2,placeholder,ch_current_compA2,ch_current_compB2,ch_current_compC2
+,Control Point,ch_control_point,ch_control_point,ch_control_point,ch_control_point
+,ALC1,placeholder,ch_compressor_current_a1 ,ch_compressor_current_b1 ,ch_compressor_current_c1 
+,ALC2,placeholder,ch_compressor_current_a2,ch_compressor_current_b2 ,ch_compressor_current_c2 
+,CDT1,placeholder,ch_discharge_gas_temp_a1,ch_discharge_gas_temp_b1,ch_discharge_gas_temp_c1
+,CDT2,placeholder,ch_discharge_gas_temp_a2,ch_discharge_gas_temp_b2,ch_discharge_gas_temp_c2
+,EXV,placeholder,ch_ex_valve_position_a,ch_ex_valve_position_b,ch_ex_valve_position_c
+,MTRW1,placeholder,ch_motor_temp_a1,ch_motor_temp_b1,ch_motor_temp_c1
+,MTRW2,placeholder,ch_motor_temp_a2,ch_motor_temp_b2,ch_motor_temp_c2
+,SP,placeholder,ch_suction_pressure_a,ch_suction_pressure_b,placeholder
+,DP,placeholder,dischargePressureCirA,dischargePressureCirB,dischargePressureCirC
+,EXV,placeholder,EXVPositionCirA,EXVPositionCirB,EXVPositionCircuitC
+,SP,placeholder,SuctionPressureCirA,SuctionPressureCirB,SuctionPressureCirC
+,ST,placeholder,SuctionGasTempA,SuctionGasTempB,SuctionGasTempC
+,SSH,SSH,SSH,SSH,SSH
+,SSH,placeholder,SuctionSuperheatA,SuctionSuperheatB,SuctionSuperheatC
+,EXV,placeholder,EXVOpen,EXVOpen,EXVOpen
+,OAT,ExternalTemperature,OutsideAirTemperature,OutsideAirTemperature,OutsideAirTemperature
+,SSH,placeholder,SuctionSuperheatTempA,SuctionSuperheatTempB,SuctionSuperheatTempC
+,ST,placeholder,CompressorSuctionTemp,CompressorSuctionTempb,CompressorSuctionTempc
+,ThT,CompThrustBrgTemp,placeholder,placeholder,placeholder
+,CRT,ch_cond_refig_temp,placeholder,placeholder,placeholder
+,ERT,ch_evap_refig_temp,placeholder,placeholder,placeholder
+,CRT,ch_cond_refig_temp_a,placeholder,placeholder,placeholder
+,ThOilT,CompThrustLvgOilTemp,placeholder,placeholder,placeholder
+,ThT,compThrustBrgTemp,placeholder,placeholder,placeholder
+,LCW,ch_leaving_chilled_water,ch_leaving_chilled_water,ch_leaving_chilled_water,ch_leaving_chilled_water
+,DP,ch_cond_pressure,ch_cond_pressure,ch_cond_pressure,ch_cond_pressure
+,ECDW,ch_entering_condenser_water,ch_entering_condenser_water,ch_entering_condenser_water,ch_entering_condenser_water
+,ECW,ch_entering_chilled_water,ch_entering_chilled_water,ch_entering_chilled_water,ch_entering_chilled_water
+,LCDW,ch_leaving_condenser_water,ch_leaving_condenser_water,ch_leaving_condenser_water,ch_leaving_condenser_water
+,OilT,OilSumpTemp,OilSumpTemp,OilSumpTemp,OilSumpTemp
+,DSH,ch_discharge_superheat,ch_discharge_superheat,ch_discharge_superheat,ch_discharge_superheat
+,SP,ch_evap_pressure,ch_evap_pressure,ch_evap_pressure,ch_evap_pressure
+,CDT,ch_discharge_gas_temp,ch_discharge_gas_temp,ch_discharge_gas_temp,ch_discharge_gas_temp
+,CRT,CH_CRT,CH_CRT,CH_CRT,CH_CRT
+,MTRW,CH_MTRW,CH_MTRW,CH_MTRW,CH_MTRW
+,OilT,CH_OILT,CH_OILT,CH_OILT,CH_OILT
+,DP,CH_CDP,CH_CDP,CH_CDP,CH_CDP
+,CDT,compDischargeTemp,compDischargeTemp,compDischargeTemp,compDischargeTemp
+,MTRW,compMotorWindingTemp,compMotorWindingTemp,compMotorWindingTemp,compMotorWindingTemp
+,CRT,condenserRefrigTemp,condenserRefrigTemp,condenserRefrigTemp,condenserRefrigTemp
+,ERT,evaporatorRefrigTemp,evaporatorRefrigTemp,evaporatorRefrigTemp,evaporatorRefrigTemp
+,DP,condenserPressure,condenserPressure,condenserPressure,condenserPressure
+,ECDW,enteringCondenserWater,enteringCondenserWater,enteringCondenserWater,enteringCondenserWater
+,PLC,percentLineCurrent,placeholder,placeholder,placeholder
+,ALC,averageLineCurrent,placeholder,placeholder,placeholder
+,OilT,oilSumpTemp,placeholder,placeholder,placeholder
+,OilPD,ch_oilPD,placeholder,placeholder,placeholder
+,SP,evaporatorPressure,placeholder,placeholder,placeholder
+,VFD,actualVFDSpeed,placeholder,placeholder,placeholder
+,DSH,dischargeSuperheat,placeholder,placeholder,placeholder
+,CDT1,placeholder,ch_discharge_gas_temp_a1,ch_discharge_gas_temp_a2,placeholder
+,CDT2,placeholder,ch_discharge_gas_temp_a2,ch_discharge_gas_temp_b2,placeholder
+,DP,placeholder,ch_discharge_pressure_a,ch_discharge_pressure_a,placeholder
+,DSH,placeholder,ch_discharge_superheat_a,ch_discharge_superheat_b,placeholder
+,Control Point,CurrentSetpoint,placeholder,placeholder,placeholder
+,ALC1,ChillerTotalCurrent,ch_compressor_current_a1,ch_compressor_current_b1,placeholder
+,ALC2,ChillerTotalCurrent,ch_compressor_current_a2,ch_compressor_current_b2,placeholder
+,CRT,placeholder,ch_cond_refig_temp_a,ch_cond_refig_temp_b,placeholder
+,ERT,placeholder,ch_evap_refig_temp_a,ch_evap_refig_temp_b,placeholder
+,MTRW1,placeholder,ch_motor_temp_a1,ch_motor_temp_b1,placeholder
+,MTRW2,placeholder,ch_motor_temp_a2,ch_motor_temp_b2,placeholder
+,OilPD,placeholder,ch_oil_pressure_difference_a,ch_oil_pressure_difference_b,ch_oil_pressure_difference_c
+,SP,placeholder,ch_suction_pressure_a,ch_suction_pressure_b,placeholder
+,DSH,placeholder,ch_discharge_superheat_a,ch_discharge_superheat_b,placeholder
+,CRT,CondSatRefrigTemp,placeholder,placeholder,placeholder
+,CDT,CompDischargeTemp,placeholder,placeholder,placeholder
+,ERT,EvapRefrigLiquidTemp,placeholder,placeholder,placeholder
+,MTRW,CompMotorWindingTemp,placeholder,placeholder,placeholder
+,CRT,condenserRefrigTemp,placeholder,placeholder,placeholder
+,OilT,OilSumpTemp,placeholder,placeholder,placeholder
+,LCDW,ch_lcdw,placeholder,placeholder,placeholder
+,VFD,ActualVFDSpeedPer,placeholder,placeholder,placeholder
+,ALC,avgLineCurrent,placeholder,placeholder,placeholder
+,LCDW,leavingCondenserWater,placeholder,placeholder,placeholder
+,OilPD,ch_oil_pressure_difference,placeholder,placeholder,placeholder
+,VFD,CH_VFD_ACT,placeholder,placeholder,placeholder
+,ALC,ch_compressor_current,placeholder,placeholder,placeholder
+,ECDW,EnteringCondWater,placeholder,placeholder,placeholder
+,PLC,percentLineCurrentPct,placeholder,placeholder,placeholder
+,PLC,percentLineCurrentP3,placeholder,placeholder,placeholder
+,LCW,leavingChilledWater,placeholder,placeholder,placeholder
+,Hrs,compOntimeP23,placeholder,placeholder,placeholder
+,Hrs,ch_C_Hrs_b,placeholder,placeholder,placeholder
+,Hrs,compOntime,placeholder,placeholder,placeholder
+,Hrs,ch_C_Hrs,placeholder,placeholder,placeholder
+,CDT,CH_CP_TEMP,placeholder,placeholder,placeholder
+,DP,CH_CRP,placeholder,placeholder,placeholder
+,SP,CH_ERP,placeholder,placeholder,placeholder
+,ERT,CH_ERT,placeholder,placeholder,placeholder
+,CDT,CH_CMPD,placeholder,placeholder,placeholder
+,Control Point,CH_lcw_sp,placeholder,placeholder,placeholder
+,Control Point,CH_LCW_STPT,placeholder,placeholder,placeholder
+,ECW,Entering_Chilled_Water,placeholder,placeholder,placeholder
+,GV,Actual_GuideVane_Position,placeholder,placeholder,placeholder
+,VFD,Actual_VFD_Speed,placeholder,placeholder,placeholder
+,ALC,Actual_Line_Current,,,
+,Hrs,Chiller_Run_Hours,,,
+,ECW,Entering_Chilled_Water,,,
+,LCW,Leaving_Chilled_Water,,,
+,Power,Motor_Killowatt,,,
+,MTRB,Comp_Thrust_Bearing_Temp,,,
+,OilT,CH_MTRB_OIL,,,
+,OilPD,Oil_Pre_DP,,,
+,PLC,Percent_Line_Current,,,
+,CDT,Comp_Discharge_Temp,,,
+,DP,Condenser_Pressure,,,
+,Control Point,Control_Point,,,
+,ECDW,Entering_Condenser_Water,,,
+,SP,Evaporator_Pressure,,,
+,GV,GuideVane1ActualPos,,,
+,LCDW,Leaving_Condenser_Water,,,
+,Power,ch_line_kw_c,,,
+,Hrs,CH_C_HRS,,,
+,LCW,CH_CHW_TMP,,,
+,Hrs,CH_S_HRS,,,
+,Serialnumber,serialnumber,,,
+,Serialnumber,Serialnumber,,,
+,SST,SST,,,
+,SDT,SDT,,,
+,Power,Line_Kilowatt,,,
